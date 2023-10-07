@@ -5,15 +5,15 @@ Welcome to my GitHub profile! I don't use it to store my projects, only to colla
 
 ## Links
 - [My LinkedIn](https://to.dyakov.space/linkedin-rd)
-- [My Habr account](https://habr.com/ru/users/djakov/)
-- My CV profile [on hh.ru](https://ekaterinburg.hh.ru/resume/c1b299d4ff03faa8e70039ed1f555574524966) and [on career.habr.ru](https://career.habr.com/dyakovri)
+- [My Habr account](https://to.dyakov.space/habr-rd)
+- My CV profile [on hh.ru](https://to.dyakov.space/hh-rd) and [on career.habr.ru](https://to.dyakov.space/habrcareer-rd)
 
 ## Projects and links to Git repos
 ### MSU Physics Faculty Student Union
     
 https://github.com/profcomff
 
-I had founded this organisation with my old student projects. Then it was grown into [Viribus Unitis](https://t.me/ViribusUnitisGroup) student club and I participated in most new projects as **PM**. Мы использовали современные популярные технологии в разработке, такие как **Python3** with **FastAPI**, **JavaScript** or **TypeScript** with **Vue3**, **GitHub Actions**.
+With friends, created a community of volunteer programmers of MSU Faculty of Physics. It was started with my old student projects. Then it was grown into [Viribus Unitis](https://t.me/ViribusUnitisGroup) student club and I participated in most new projects as **PM**. Мы использовали современные популярные технологии в разработке, такие как **Python3** with **FastAPI**, **JavaScript** or **TypeScript** with **Vue3**, **GitHub Actions**.
 
 
 ### Mathematical modeling of simple physical processes (or just physics faculty final projects)
