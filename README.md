@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I don't use it to store my projects, only to colla
     
 https://github.com/profcomff
 
-With friends, created a community of volunteer programmers of MSU Faculty of Physics. It was started with my old student projects. Then it was grown into [Viribus Unitis](https://t.me/ViribusUnitisGroup) student club and I participated in most new projects as **PM**. Мы использовали современные популярные технологии в разработке, такие как **Python3** with **FastAPI**, **JavaScript** or **TypeScript** with **Vue3**, **GitHub Actions**.
+With friends, I had founded a community of volunteer programmers of MSU Faculty of Physics. It was started with my old student projects. Then it was grown into [Viribus Unitis](https://t.me/ViribusUnitisGroup) student club and I participated in most new projects as **PM**. Мы использовали современные популярные технологии в разработке, такие как **Python3** with **FastAPI**, **JavaScript** or **TypeScript** with **Vue3**, **GitHub Actions**.
 
 
 ### Mathematical modeling of simple physical processes (or just physics faculty final projects)
