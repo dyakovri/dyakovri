@@ -1,6 +1,6 @@
 Hi there! 
 
-Welcome to my GitHub profile! I don't use it to store my projects, only to collaborate with some people. Below you can find projects I'm colamorate in or made myself as pet-projects.
+Welcome to my GitHub profile! I don't use it to store my projects, only to collaborate with some people. Below you can find projects I'm participate in or made myself as pet-projects.
 
 
 ## Links
